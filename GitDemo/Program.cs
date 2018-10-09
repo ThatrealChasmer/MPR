@@ -10,8 +10,8 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            //ysgdhshzbdjb
-            //TUT
+            Console.WriteLine("Hello s17538");
+
         }
     }
 }
