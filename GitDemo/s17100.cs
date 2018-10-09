@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitDemo
 {
-    class Program
+    class s17100
     {
-        static void Main(string[] args)
+        public s17100()
         {
-            Console.WriteLine("Hello s17538");
 
         }
     }
