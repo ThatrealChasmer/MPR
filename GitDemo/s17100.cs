@@ -8,5 +8,9 @@ namespace GitDemo
 {
     class s17100
     {
+        public s17100()
+        {
+
+        }
     }
 }
