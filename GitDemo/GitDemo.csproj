@@ -45,6 +45,7 @@
     <Compile Include="s15465.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="s17100.cs" />
     <Compile Include="s17538.cs" />
   </ItemGroup>
   <ItemGroup>

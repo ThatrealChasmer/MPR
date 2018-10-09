@@ -11,6 +11,9 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("elo");
+            Console.WriteLine("Witaj przechodniu");
+            Console.WriteLine("Hello Chasmer");
+            Console.WriteLine("Hello s17538");
         }
     }
 }
