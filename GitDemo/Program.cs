@@ -10,9 +10,9 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            //ysgdhshzbdjb
-            //TUT
             Console.WriteLine("Witaj przechodniu");
+            Console.WriteLine("Hello Chasmer");
+            Console.WriteLine("Hello s17538");
         }
     }
 }
