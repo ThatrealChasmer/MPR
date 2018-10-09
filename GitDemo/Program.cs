@@ -12,6 +12,7 @@ namespace GitDemo
         {
             //ysgdhshzbdjb
             //TUT
+            Console.WriteLine("Witaj przechodniu");
         }
     }
 }
